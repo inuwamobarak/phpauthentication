@@ -37,7 +37,7 @@ Follow these steps to integrate the multilevel three-factor authentication syste
 ## Requirements
 
 - PHP 7.0 or higher
-- MySQL database (or any other compatible database system)
+- MySQL database (or any other compatible database system) 
 
 ## Installation
 
